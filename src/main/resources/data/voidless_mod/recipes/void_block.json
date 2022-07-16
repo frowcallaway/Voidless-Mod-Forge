@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:void/void_ingot"
+    }
+  },
+  "result": {
+    "item": "voidless_mod:void_block"
+  }
+}

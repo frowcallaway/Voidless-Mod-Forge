@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "voidless_mod:block/void_block",
+    "top": "voidless_mod:block/void_block",
+    "side": "voidless_mod:block/void_block"
+  }
+}

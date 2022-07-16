@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "voidless_mod:void_wood",
+    "voidless_mod:void_log",
+    "voidless_mod:stripped_void_log",
+    "voidless_mod:stripped_void_wood"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "XYX",
+    " Y "
+  ],
+  "key": {
+    "#": {
+      "item": "voidless_mod:void_block"
+    },
+    "X": {
+      "item": "voidless_mod:void_ore"
+    },
+    "Y": {
+      "item": "voidless_mod:void_ingot"
+    }
+  },
+  "result": {
+    "item": "voidless_mod:void_staff",
+    "count": 1
+  }
+}

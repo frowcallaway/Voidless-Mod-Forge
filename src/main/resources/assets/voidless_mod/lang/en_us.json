@@ -1,0 +1,43 @@
+{
+  "item.voidless_mod.void_ingot": "Void Ingot",
+  "item.voidless_mod.void_fragment": "Void Fragment",
+  "item.voidless_mod.void_staff": "Void Staff",
+  "item.voidless_mod.void_steak": "Void Steak",
+  "item.voidless_mod.void_burner": "Void Burner",
+  "item.voidless_mod.void_sword": "Void Sword",
+  "item.voidless_mod.void_pickaxe": "Void Pickaxe",
+  "item.voidless_mod.void_axe": "Void Axe",
+  "item.voidless_mod.void_hoe": "Void Hoe",
+  "item.voidless_mod.void_shovel": "Void Shovel",
+  "item.voidless_mod.void_helmet": "Void Helmet",
+  "item.voidless_mod.void_chestplate": "Void Chestplate",
+  "item.voidless_mod.void_leggings": "Void Leggings",
+  "item.voidless_mod.void_boots": "Void Boots",
+  "item.voidless_mod.void_music_disc": "Void Disc",
+  "item.voidless_mod.void_music_disc.desc": "ChewieCatt - Why?",
+
+  "block.voidless_mod.void_block": "Void Block",
+  "block.voidless_mod.void_log": "Void Log",
+  "block.voidless_mod.void_wood": "Void Wood",
+  "block.voidless_mod.void_planks": "Void Planks",
+  "block.voidless_mod.stripped_void_log": "Stripped Void Log",
+  "block.voidless_mod.stripped_void_wood": "Stripped Void Wood",
+  "block.voidless_mod.void_sapling": "Void Sapling",
+  "block.voidless_mod.void_leaves": "Void Leaves",
+
+
+  "block.voidless_mod.void_stairs": "Void Stairs",
+  "block.voidless_mod.void_fence": "Void Fence",
+  "block.voidless_mod.void_slab": "Void Slab",
+  "block.voidless_mod.void_fence_gate": "Void Fence Gate",
+  "block.voidless_mod.void_wall": "Void Wall",
+  "block.voidless_mod.void_trapdoor": "Void Trapdoor",
+  "block.voidless_mod.void_button": "Void Button",
+  "block.voidless_mod.void_pressure_plate": "Void Pressure Plate",
+  "block.voidless_mod.void_door": "Void Door",
+
+  "itemGroup.voidless_mod_tab": "Voidless Mod",
+  "item.voidless_mod.void_staff.no_valuables": "No Valuables Were Found",
+  "item.voidless_mod.tooltip.shiftdown": "This can find ores such as coal, iron and diamond. Right click on blocks to find valuables",
+  "item.voidless_mod.tooltip": "Press SHIFT for more information"
+}

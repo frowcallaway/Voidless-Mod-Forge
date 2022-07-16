@@ -1,0 +1,10 @@
+{
+  "amongus_music": {
+    "sounds": [
+      {
+        "name": "voidless_mod:amongus_music",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "voidless_mod:void_ingot"
+    },
+    "title": "The Beginning of the void journey",
+    "description": "Obtain a void fragment",
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "voidless_mod:void_fragment"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

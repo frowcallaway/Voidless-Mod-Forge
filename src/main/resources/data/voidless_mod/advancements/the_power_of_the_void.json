@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "voidless_mod:void_staff"
+    },
+    "title": "The Power Of The Void",
+    "description": "Use the void staff to find ores",
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "voidless_mod:void_staff"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

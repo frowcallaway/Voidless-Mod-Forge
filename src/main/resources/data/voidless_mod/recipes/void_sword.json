@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " # ",
+    " X  "
+  ],
+  "key": {
+    "#": {
+      "item": "voidless_mod:void_ingot"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "voidless_mod:void_sword",
+    "count": 1
+  }
+}

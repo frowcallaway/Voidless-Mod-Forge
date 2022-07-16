@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "voidless_mod:block/void_leaves"
+  }
+}

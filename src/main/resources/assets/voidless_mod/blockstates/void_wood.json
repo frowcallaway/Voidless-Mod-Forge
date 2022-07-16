@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "voidless_mod:block/void_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "voidless_mod:block/void_wood"
+    },
+    "axis=z": {
+      "model": "voidless_mod:block/void_wood",
+      "x": 90
+    }
+  }
+}

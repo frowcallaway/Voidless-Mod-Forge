@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "voidless_mod:block/stripped_void_log_top",
+    "side": "voidless_mod:block/stripped_void_log"
+  }
+}

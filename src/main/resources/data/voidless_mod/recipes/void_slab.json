@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "###",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "voidless_mod:void_block"
+    }
+  },
+  "result": {
+    "item": "voidless_mod:void_slab"
+  },
+  "count": 3
+}

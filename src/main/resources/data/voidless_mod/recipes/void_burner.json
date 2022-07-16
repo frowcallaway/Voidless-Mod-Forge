@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "voidless_mod:void_ingot"
+  },
+  "result": "voidless_mod:void_burner",
+  "experience": 1.6,
+  "cookingtime": 200
+}

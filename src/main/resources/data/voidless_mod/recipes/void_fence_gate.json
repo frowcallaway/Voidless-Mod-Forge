@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "X#X",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "voidless_mod:void_block"
+    }
+  },
+  "result": {
+    "item": "voidless_mod:void_fence_gate",
+    "count": 1
+  }
+}
